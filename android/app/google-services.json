@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "781029568611",
+    "firebase_url": "https://company-47f7c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "company-47f7c",
+    "storage_bucket": "company-47f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781029568611:android:750cf36abce5a125c2c856",
+        "android_client_info": {
+          "package_name": "com.example.uts_kivenkeita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTY8M8kbR2mkiiByBDbfUVA2ZBDR90CSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
